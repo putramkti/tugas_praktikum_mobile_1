@@ -94,13 +94,13 @@ class _MyHomePageState extends State<MyHomePage> {
                 children: [
                   ElevatedButton(
                     onPressed: () {
-                      // Tambahkan logika untuk button pertama
+                      
                     },
                     child: Text('Button 1'),
                   ),
                   ElevatedButton(
                     onPressed: () {
-                      // Tambahkan logika untuk button kedua
+                      
                     },
                     child: Text('Button 2'),
                   ),
